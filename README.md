@@ -10,8 +10,9 @@
 
 #### Discontinued Dashboards
 
-- https://sdlash-47.notion.site/sdlash-47/05c8ac16e35d4f0b98f81a2d33cabb6d
 - https://xrktz.gitbook.io/shroomite_kingdom_redacted/404
+- https://sdlash-47.notion.site/sdlash-47/05c8ac16e35d4f0b98f81a2d33cabb6d
+- https://shroomitekingdom.neocities.org
 
 ## Shortened Links
 
