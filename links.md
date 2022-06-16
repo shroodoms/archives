@@ -1,7 +1,7 @@
 # Links
 
 ### Quick Navigation:
-[Links](#links)  
+[Permalinks](#links)  
 [Shortened Links](#shortened-links)
 
 <!--- lol man -->
