@@ -24,16 +24,14 @@
   - https://tinyurl.com/SF-03S
   - https://tinyurl.com/SF-04B
 
-#### Flags
+- Flags
+  - https://rotf.lol/SKCFlag
+  - https://rotf.lol/SKCWF
+  - https://rotf.lol/SQZFlag
+  - https://rotf.lol/RVSFlag
 
-- https://rotf.lol/SKCFlag
-- https://rotf.lol/SKCWF
-- https://rotf.lol/SQZFlag
-- https://rotf.lol/RVSFlag
-
-#### Misc
-
-- https://tinyurl.com/RulesTemplate
+- Misc
+  - https://tinyurl.com/RulesTemplate
 
 ***
 
