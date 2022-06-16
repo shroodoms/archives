@@ -1,3 +1,5 @@
+# Links
+
 ### Quick Navigation:
 [Links](#links)  
 [Shortened Links](#shortened-links)
@@ -6,7 +8,7 @@
 
 ***
 
-## links
+## Permanent links
 
 - Discontinued Dashboards
 
