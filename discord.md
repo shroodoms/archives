@@ -1,7 +1,9 @@
 # discord md
 
-### removed roles
-Batch 1
+## removed roles
+
+### Monthly Roles
+
 > Inspired by minor planets : 
   - 737 Arequipa
   - 6084 Bascom
@@ -15,3 +17,22 @@ Batch 1
   - 4114 Jasnorzewska
   - 7475 Kaizuka
   - 18043 Laszkowska
+
+### Color Roles
+> lol
+  - ⦊ Laffey USS Laffey
+  - ⦊ Maori HMS Maori
+  - ⦊ Nassau USS Nassau
+  - ⦊ Onslow HMS Onslow
+  - ⦊ Pandora HMS Pandora
+  - ⦊ Quadrant HMAS Quadrant
+  - ⦊ Repulse HMS Repulse
+  - ⦊ Samphire HMS Samphire
+  - ⦊ Teazer HMS Teazer
+  - ⦊ Ulysses HMS Ulysses 
+  - ⦊ Volage HMS Volage
+  - ⦊ Warspite HMS Warspite 
+  - ⦊ Xanthus USS Xanthus
+  - ⦊ Yukikaze IJN Yukikaze
+  - ⦊ Zuikaku IJN Zuikaku
+
